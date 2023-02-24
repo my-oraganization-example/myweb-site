@@ -8,4 +8,4 @@ checking for pulling
 
 making update readme file
 
-updating from locally system
+updating from locally system, then remotly
